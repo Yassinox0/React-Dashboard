@@ -185,5 +185,3 @@ Dribbble: <https://dribbble.com/creativetim>
 Google+: <https://plus.google.com/+CreativetimPage>
 
 Instagram: <https://instagram.com/creativetimofficial>
-#   R e a c t - D a s h b o a r d  
- 
